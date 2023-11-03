@@ -1,4 +1,5 @@
-<h1 align="center"><m> Привет!<img src="https://camo.githubusercontent.com/8688ddee7e890dd431c7a49285ea128dd7c42b8a20361e75da59aee75330bdc2/68747470733a2f2f626c6f672e6a6f79706978656c732e636f6d2f636f6e74656e742f696d616765732f323031392f30362f776176696e675f68616e645f7369676e5f313032342e676966" width="40" alt="Жест приветствия"> 
+<h1 align="center"><m><img src="https://camo.githubusercontent.com/8688ddee7e890dd431c7a49285ea128dd7c42b8a20361e75da59aee75330bdc2/68747470733a2f2f626c6f672e6a6f79706978656c732e636f6d2f636f6e74656e742f696d616765732f323031392f30362f776176696e675f68616e645f7369676e5f313032342e676966" width="40" alt="Жест приветствия">
+<img src="https://cdn.dribbble.com/users/1133930/screenshots/2652982/media/924b38a28594a7a78141d92e05dbb4ee.gif" width="40" alt="Жест приветствия"> Привет!
 <br>Меня зовут Мария, занимаюсь веб-разработкой 🌷 </m></h1>
     <div id="header" align="center">
         <img 
