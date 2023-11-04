@@ -46,7 +46,7 @@
             width="30"
             title="Telegram"
       />
-   </a>
+   </a>&nbsp;
    <a href="mailto:kushnareva.msee@gmail.com" title="Email" target="_blank">
         <img align="center"
             height="30"
