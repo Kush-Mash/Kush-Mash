@@ -38,21 +38,6 @@
 
 <h3 align="center"><img src="http://cdn.onlinewebfonts.com/svg/img_524742.png" width="20"> Контакты:</h3>
 <p align="center">
-   <a href="https://t.me/kush_mash" title="Telegram" target="_blank">
-      <img align="center" 
-            src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-            alt="Dennosfen"
-            height="30"
-            width="30"
-            title="Telegram"
-      />
-   </a>
-   <a href="mailto:kushnareva.msee@gmail.com" title="Email" target="_blank">
-        <img align="center"
-            height="30"
-            width="30"
-            src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256"
-            alt="email"
-            title="Email">
-    </a>
+   <a href="https://t.me/kush_mash" title="Telegram" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Dennosfen" height="30" width="30" title="Telegram" /></a>
+   <a href="mailto:kushnareva.msee@gmail.com" title="Email" target="_blank"><img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256" alt="email" title="Email" /></a>
 </p>
