@@ -1,4 +1,4 @@
-<section background="#6A5ACD">
+<section style="background-color: #6A5ACD">
     <h2 align="center"><m><img src="https://64.media.tumblr.com/508ff14bf630746fddad9582ccbd4360/tumblr_o2dmdw4fQa1r36x0uo1_500.gifv" width="100" alt="Танцующая приветствует Вас">Привет!
     <br>Меня зовут Мария, занимаюсь веб-разработкой.</m></h2>
         <div id="header" align="center">
