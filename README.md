@@ -37,7 +37,7 @@
 </div>
 
 <h3 align="center"><img src="http://cdn.onlinewebfonts.com/svg/img_524742.png" width="20"> Контакты:</h3>
-<div align="center">
+<p align="center">
    <a href="https://t.me/kush_mash" title="Telegram" target="_blank">
       <img align="center" 
             src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
@@ -46,7 +46,7 @@
             width="30"
             title="Telegram"
       />
-   </a>&nbsp;
+   </a>
    <a href="mailto:kushnareva.msee@gmail.com" title="Email" target="_blank">
         <img align="center"
             height="30"
@@ -55,4 +55,4 @@
             alt="email"
             title="Email">
     </a>
-</div>
+</p>
